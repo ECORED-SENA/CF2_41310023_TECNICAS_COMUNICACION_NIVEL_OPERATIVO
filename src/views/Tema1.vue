@@ -149,6 +149,113 @@
             img(src="@/assets/curso/tema1/22.png")
           .p-4.pb-5
             p.mb-0.text-center Permiten la creación de manuales que orienten la labor diaria en las dependencias de la empresa.
+    
+    .cont_decorativo.mb-4.mt-4(data-aos="fade-right")
+      .row
+        .col-auto.pe-0.ps-lg-4(style="place-self:start;")
+          figure
+            img(src="@/assets/curso/tema1/23.svg")
+        .col.ps-2(style="place-self:center;")
+          h3.mb-0.pe-4.pt-lg-3 Tipos de políticas empresariales
+    
+    p(data-aos="fade-right") Las políticas empresariales se pueden clasificar en varios tipos, entre los cuales destacan:
+
+    .cont_1_5.mt-4.pt-4.pb-4.pb-xl-5.pt-xl-5
+      .tarjeta.bg-white.p-4.p-lg-5.pb-lg-4
+        SlyderA(tipo="b")
+          .row.pt-lg-4
+            .col-lg-7.mb-4.mb-lg-0(style="place-self:center;")
+              h4 Generales
+              p.mt-4 Estas políticas aplican a todos los niveles de la organización y son de alto impacto o criticidad. Deben ser conocidas por todos y alinearse con la estrategia de la empresa, sirviendo como guía general. 
+            .col-lg-5
+              figure.m-auto.col-8.col-md-6.col-lg-12
+                img(src='@/assets/curso/tema1/25.png')
+          .row.pt-lg-4
+            .col-lg-7.mb-4.mb-lg-0(style="place-self:center;")
+              h4 Específicas 
+              p.mt-4 Dirigidas a determinados procesos y delimitadas por su alcance, como políticas de ventas, compras, seguridad informática, inventario, entre otras.  
+            .col-lg-5
+              figure.m-auto.col-8.col-md-6.col-lg-12
+                img(src='@/assets/curso/tema1/26.png')
+          .row.pt-lg-4
+            .col-lg-7.mb-4.mb-lg-0(style="place-self:center;")
+              h4 Integradas
+              p.mt-4 En organizaciones con un Sistema de Gestión Integrado, estas políticas globales abarcan aspectos como calidad, medio ambiente y prevención de riesgos laborales en un solo documento. 
+            .col-lg-5
+              figure.m-auto.col-8.col-md-6.col-lg-12
+                img(src='@/assets/curso/tema1/27.png')
+    
+    p.mt-4(data-aos="fade-up") También se encuentran las políticas a corto plazo y a largo plazo. Lo más importante es que las políticas empresariales que se definan sean cumplibles. Para ello, al establecer las políticas, es necesario identificar y analizar los factores internos y externos que afectan su cumplimiento.
+
+    .col-xl-10.m-auto.mt-4
+      .p-4.p-md-3(style="background-color:#340B81;border-radius:51px;" data-aos="zoom-in")
+        .row  
+          .col-auto.d-md-block.d-none(style="place-self:center;")
+            figure
+              img(src="@/assets/curso/tema1/28.svg")
+          .col(style="place-self:center;")
+            p.mb-0.text-white El entorno rápidamente cambiante en el que se desenvuelve la empresa obliga a revisar y actualizar constantemente las políticas, sin importar su tipo.
+    
+    p.mt-4(data-aos="fade-right") Los factores son: 
+
+    .row.mt-4
+      .col-lg.mb-4.mb-lg-0(data-aos="zoom-in-up")
+        .h-100.p-4(style="background-color:#99EDE1;border-radius:15px;")
+          .row
+            .col-md-6.col-lg-6.d-none.d-md-block(style="place-self:center;")
+              figure
+                img(src="@/assets/curso/tema1/29.svg")
+            .col-md-6.col-lg-6
+              p.fw-bold Factores internos
+              .p-2.bg-white.mb-2(style="border-radius:6px;")
+                .d-flex
+                  i.fas.fa-check-circle(style="color:#340B81;place-self:center;")
+                  span.ps-3 La cultura de la empresa.
+              .p-2.bg-white.mb-2(style="border-radius:6px;")
+                .d-flex
+                  i.fas.fa-check-circle(style="color:#340B81;place-self:center;")
+                  span.ps-3 Los recursos disponibles.
+              .p-2.bg-white(style="border-radius:6px;")
+                .d-flex
+                  i.fas.fa-check-circle(style="color:#340B81;place-self:center;")
+                  span.ps-3 Otras debilidades y fortalezas de la empresa.
+      .col-lg.mb-4.mb-lg-0(data-aos="zoom-in-up")
+        .h-100.p-4(style="background-color:#99EDE1;border-radius:15px;")
+          .row
+            .col-md-6.col-lg-6.d-none.d-md-block(style="place-self:center;")
+              figure
+                img(src="@/assets/curso/tema1/30.svg")
+            .col-md-6.col-lg-6
+              p.fw-bold Factores externos
+              .p-2.bg-white.mb-2(style="border-radius:6px;")
+                .d-flex
+                  i.fas.fa-check-circle(style="color:#340B81;place-self:center;")
+                  span.ps-3 Económico
+              .p-2.bg-white.mb-2(style="border-radius:6px;")
+                .d-flex
+                  i.fas.fa-check-circle(style="color:#340B81;place-self:center;")
+                  span.ps-3 Sociales
+              .p-2.bg-white.mb-2(style="border-radius:6px;")
+                .d-flex
+                  i.fas.fa-check-circle(style="color:#340B81;place-self:center;")
+                  span.ps-3 Tecnológicas
+              .p-2.bg-white.mb-2(style="border-radius:6px;")
+                .d-flex
+                  i.fas.fa-check-circle(style="color:#340B81;place-self:center;")
+                  span.ps-3 Político-legales
+              .p-2.bg-white(style="border-radius:6px;")
+                .d-flex
+                  i.fas.fa-check-circle(style="color:#340B81;place-self:center;")
+                  span.ps-3 La competencia
+    
+    p.mt-4(data-aos="fade-up") El entorno rápidamente cambiante en el cual la empresa se desenvuelve obliga a revisar y actualizar constantemente las políticas, sin importar de qué tipo sea.
+
+    .col-xl-10.m-auto.mt-4
+      .p-4(style="background-color:#F6DE93;border-radius:15px;position:relative;" data-aos="zoom-in")
+        .row
+
+
+                
       
 
 
