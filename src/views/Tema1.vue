@@ -188,7 +188,7 @@
     p.mt-4(data-aos="fade-up") También se encuentran las políticas a corto plazo y a largo plazo. Lo más importante es que las políticas empresariales que se definan sean cumplibles. Para ello, al establecer las políticas, es necesario identificar y analizar los factores internos y externos que afectan su cumplimiento.
 
     .col-xl-10.m-auto.mt-4
-      .p-4.p-md-3(style="background-color:#340B81;border-radius:51px;" data-aos="zoom-in")
+      .p-4.p-md-3(style="background-color:#340B81;border-radius:55px;" data-aos="zoom-in")
         .row  
           .col-auto.d-md-block.d-none(style="place-self:center;")
             figure

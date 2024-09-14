@@ -2,7 +2,7 @@
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/](https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/)
+[https://ecored-sena.github.io/CF2_41310023_TECNICAS_COMUNICACION_NIVEL_OPERATIVO/](https://ecored-sena.github.io/CF2_41310023_TECNICAS_COMUNICACION_NIVEL_OPERATIVO/)
 
 #
 
