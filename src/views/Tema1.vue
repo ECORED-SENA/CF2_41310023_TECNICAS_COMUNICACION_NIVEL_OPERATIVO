@@ -210,15 +210,15 @@
               .p-2.bg-white.mb-2(style="border-radius:6px;")
                 .d-flex
                   i.fas.fa-check-circle(style="color:#340B81;place-self:center;")
-                  span.ps-3 La cultura de la empresa.
+                  span.ps-2 La cultura de la empresa.
               .p-2.bg-white.mb-2(style="border-radius:6px;")
                 .d-flex
                   i.fas.fa-check-circle(style="color:#340B81;place-self:center;")
-                  span.ps-3 Los recursos disponibles.
+                  span.ps-2 Los recursos disponibles.
               .p-2.bg-white(style="border-radius:6px;")
                 .d-flex
                   i.fas.fa-check-circle(style="color:#340B81;place-self:center;")
-                  span.ps-3 Otras debilidades y fortalezas de la empresa.
+                  span.ps-2 Otras debilidades y fortalezas de la empresa.
       .col-lg.mb-4.mb-lg-0(data-aos="zoom-in-up")
         .h-100.p-4(style="background-color:#99EDE1;border-radius:15px;")
           .row
@@ -230,29 +230,260 @@
               .p-2.bg-white.mb-2(style="border-radius:6px;")
                 .d-flex
                   i.fas.fa-check-circle(style="color:#340B81;place-self:center;")
-                  span.ps-3 Económico
+                  span.ps-2 Económico
               .p-2.bg-white.mb-2(style="border-radius:6px;")
                 .d-flex
                   i.fas.fa-check-circle(style="color:#340B81;place-self:center;")
-                  span.ps-3 Sociales
+                  span.ps-2 Sociales
               .p-2.bg-white.mb-2(style="border-radius:6px;")
                 .d-flex
                   i.fas.fa-check-circle(style="color:#340B81;place-self:center;")
-                  span.ps-3 Tecnológicas
+                  span.ps-2 Tecnológicas
               .p-2.bg-white.mb-2(style="border-radius:6px;")
                 .d-flex
                   i.fas.fa-check-circle(style="color:#340B81;place-self:center;")
-                  span.ps-3 Político-legales
+                  span.ps-2 Político-legales
               .p-2.bg-white(style="border-radius:6px;")
                 .d-flex
                   i.fas.fa-check-circle(style="color:#340B81;place-self:center;")
-                  span.ps-3 La competencia
+                  span.ps-2 La competencia
     
     p.mt-4(data-aos="fade-up") El entorno rápidamente cambiante en el cual la empresa se desenvuelve obliga a revisar y actualizar constantemente las políticas, sin importar de qué tipo sea.
 
     .col-xl-10.m-auto.mt-4
       .p-4(style="background-color:#F6DE93;border-radius:15px;position:relative;" data-aos="zoom-in")
+        img(src="@/assets/curso/tema1/31.png" style="position:absolute;max-width:350px;max-height:350px;bottom:0;right:0;z-index:-1;")
         .row
+          .col-lg-6.mb-4.mb-lg-0(style="place-self:center;")
+            figure.m-auto.col-9.col-md-7.col-lg-12 
+              img(src="@/assets/curso/tema1/32.png")
+          .col-lg-6
+            p En el momento de establecer los objetivos es fundamental definir:
+            .p-2.bg-white.mb-2(style="border-radius:6px;max-width:fit-content;")
+              .d-flex
+                i.fas.fa-check-circle(style="color:#340B81;place-self:center;")
+                span.ps-2 Responsable del cumplimiento.
+            .p-2.bg-white.mb-2(style="border-radius:6px;max-width:fit-content;")
+              .d-flex
+                i.fas.fa-check-circle(style="color:#340B81;place-self:center;")
+                span.ps-2 Alcance del objetivo.
+            .p-2.bg-white.mb-2(style="border-radius:6px;max-width:fit-content;")
+              .d-flex
+                i.fas.fa-check-circle(style="color:#340B81;place-self:center;")
+                span.ps-2 Plazo de cumplimiento.
+            .p-2.bg-white.mb-2(style="border-radius:6px;max-width:fit-content;")
+              .d-flex
+                i.fas.fa-check-circle(style="color:#340B81;place-self:center;")
+                span.ps-2 Variable a medir.
+            .p-2.bg-white(style="border-radius:6px;max-width:fit-content;")
+              .d-flex
+                i.fas.fa-check-circle(style="color:#340B81;place-self:center;")
+                span.ps-2 Método y frecuencia de medición.
+    
+    .cont_1_6.mt-4
+      .row(data-aos="fade-right")
+        .col-md-auto.d-none.d-md-block(style="place-self:center;")
+          figure
+            img(src="@/assets/curso/tema1/34.svg")
+        .col-md(style="place-self:center;")
+          p.mb-0 En todos los casos el área de Dirección de la empresa debe, además de suministrar los recursos necesarios, nombrar al responsable del cumplimiento de esa política. Para que las políticas sean factibles, viables y, sobre todo, de calidad, se deben seguir una serie de pasos, y la adecuada aplicación de los requisitos correspondientes.
+      
+      p.mt-4(data-aos="fade-up") Para que las políticas tengan los resultados deseados deben cumplir con los siguientes requisitos:
+
+      .col-xl-10.m-auto.mt-4
+        .row
+          .col-lg-4.mb-4.mb-lg-0(data-aos="fade-up" style="place-self:center;")
+            figure.m-auto.col-8.col-md-5.col-lg-12
+              img(src="@/assets/curso/tema1/35.png")
+          .col-lg-8(data-aos="fade-left")
+            SlyderF(columnas="col-lg-6 p-4")
+              .tarjeta.cont_1_3.p-4
+                .pb-4.ps-3.pe-3
+                  figure.text-center
+                    img(src="@/assets/curso/tema1/36.svg" style="max-width:100px;display:inline;")
+                  .text-center.mt-3
+                    p.fw-bold Estabilidad
+                    p.mb-0 Evitar cambios frecuentes de criterio, manteniendo una orientación clara. 
+              .tarjeta.cont_1_3.p-4
+                .pb-4.ps-3.pe-3
+                  figure.text-center
+                    img(src="@/assets/curso/tema1/37.svg" style="max-width:100px;display:inline;")
+                  .text-center.mt-3
+                    p.fw-bold Adaptabilidad 
+                    p.mb-0 Ajustarse a las necesidades que el entorno demande. 
+              .tarjeta.cont_1_3.p-4
+                .pb-4.ps-3.pe-3
+                  figure.text-center
+                    img(src="@/assets/curso/tema1/38.svg" style="max-width:100px;display:inline;")
+                  .text-center.mt-3
+                    p.fw-bold Inteligibilidad 
+                    p.mb-0 Ser clara para evitar malas interpretaciones. 
+              .tarjeta.cont_1_3.p-4
+                .pb-4.ps-3.pe-3
+                  figure.text-center
+                    img(src="@/assets/curso/tema1/39.svg" style="max-width:100px;display:inline;")
+                  .text-center.mt-3
+                    p.fw-bold Factibilidad 
+                    p.mb-0 La política debe poder realizarse tal y como está presentada. 
+              .tarjeta.cont_1_3.p-4
+                .pb-4.ps-3.pe-3
+                  figure.text-center
+                    img(src="@/assets/curso/tema1/40.svg" style="max-width:100px;display:inline;")
+                  .text-center.mt-3
+                    p.fw-bold Efectividad 
+                    p.mb-0 Debe ser posible cumplirla y llevarla a cabo de manera eficiente. 
+              .tarjeta.cont_1_3.p-4
+                .pb-4.ps-3.pe-3
+                  figure.text-center
+                    img(src="@/assets/curso/tema1/41.svg" style="max-width:100px;display:inline;")
+                  .text-center.mt-3
+                    p.fw-bold Participación 
+                    p.mb-0 Involucrar a todos los miembros de la empresa en su creación y aplicación. 
+    
+    p.mt-5(data-aos="fade-right") Cuando no se cumplen los objetivos y metas es necesario incorporar actividades de análisis de causa para encontrar la causa real del incumplimiento y, una vez determinada, eliminarla. Para que las políticas empresariales logren los resultados deseados, deben cumplir con ciertos requisitos:
+
+    .row.mt-4.justify-content-center
+      .col-lg-3.mb-4.mb-lg-0.col-md-7(data-aos="zoom-in")
+        .h-100.p-4.cont_1_7.pt-xl-5.pb-xl-5.cont_puntos.cont_puntos__verde
+          figure
+            img(src="@/assets/curso/tema1/42.svg")
+          p._title.fw-bold.mt-3 Diseño y desarrollo de la política 
+          p._description Incluye desde la identificación de la necesidad hasta la redacción de la política. 
+      .col-lg-3.mb-4.mb-lg-0.col-md-7(data-aos="zoom-in")
+        .h-100.p-4.cont_1_7.pt-xl-5.pb-xl-5.cont_puntos.cont_puntos__verde
+          figure
+            img(src="@/assets/curso/tema1/43.svg")
+          p._title.fw-bold.mt-3 Validación y aprobación 
+          p._description Se realizan revisiones y ajustes antes de la aprobación final por parte de los involucrados. 
+      .col-lg-3.mb-4.mb-lg-0.col-md-7(data-aos="zoom-in")
+        .h-100.p-4.cont_1_7.pt-xl-5.pb-xl-5.cont_puntos.cont_puntos__verde
+          figure
+            img(src="@/assets/curso/tema1/44.svg")
+          p._title.fw-bold.mt-3 Divulgación  
+          p._description Formalizar la vigencia y aplicación de la política en todos los niveles de la organización. 
+      .col-lg-3.mb-4.mb-lg-0.col-md-7(data-aos="zoom-in")
+        .h-100.p-4.cont_1_7.pt-xl-5.pb-xl-5.cont_puntos.cont_puntos__verde
+          figure
+            img(src="@/assets/curso/tema1/45.svg")
+          p._title.fw-bold.mt-3 Mantenimiento 
+          p._description Realizar ajustes o actualizaciones necesarios; se recomienda revisar o actualizar al menos una vez al año. 
+    
+    p.mt-4(data-aos="fade-right") La redacción de las políticas debe ser clara, concreta y precisa, evitando cualquier ambigüedad. Además, deben estar claramente definidas, ser aplicables, cumplibles y actualizables.
+
+    .cont_1_8.mt-4
+      .col-xl-10.m-auto
+        .p-4(style="background-color:#F6DE93;border-radius:15px;position:relative;" data-aos="zoom-in")
+          img(src="@/assets/curso/tema1/31.png" style="position:absolute;max-width:350px;max-height:350px;bottom:0;right:0;z-index:-1;")
+          .row
+            .col-lg-5.mb-4.mb-lg-0(style="place-self:center;")
+              figure.m-auto.col-9.col-md-7.col-lg-12 
+                img(src="@/assets/curso/tema1/46.svg")
+            .col-lg-7
+              p Los beneficios de la aplicación de las políticas son:
+              .p-2.bg-white.mb-2(style="border-radius:6px;max-width:fit-content;")
+                .d-flex
+                  i.fas.fa-check-circle(style="color:#340B81;place-self:center;")
+                  span.ps-2 Aseguran un trato equitativo para todos los empleados.
+              .p-2.bg-white.mb-2(style="border-radius:6px;max-width:fit-content;")
+                .d-flex
+                  i.fas.fa-check-circle(style="color:#340B81;place-self:center;")
+                  span.ps-2 Generan seguridad de comunicación interna en todos los niveles.
+              .p-2.bg-white.mb-2(style="border-radius:6px;max-width:fit-content;")
+                .d-flex
+                  i.fas.fa-check-circle(style="color:#340B81;place-self:center;")
+                  span.ps-2 Es fuente de conocimiento inicial, rápido y claro, para ubicar en su puesto a nuevos empleados.
+              .p-2.bg-white.mb-2(style="border-radius:6px;max-width:fit-content;")
+                .d-flex
+                  i.fas.fa-check-circle(style="color:#340B81;place-self:center;")
+                  span.ps-2 Facilita una comunicación abierta y promueve la honestidad.
+              .p-2.bg-white.mb-2(style="border-radius:6px;max-width:fit-content;")
+                .d-flex
+                  i.fas.fa-check-circle(style="color:#340B81;place-self:center;")
+                  span.ps-2 Desarrolla la autoridad, poder y liderazgo.
+              .p-2.bg-white.mb-2(style="border-radius:6px;max-width:fit-content;")
+                .d-flex
+                  i.fas.fa-check-circle(style="color:#340B81;place-self:center;")
+                  span.ps-2 Son indispensables para una adecuada delegación de autoridad.
+              .p-2.bg-white.mb-2(style="border-radius:6px;max-width:fit-content;")
+                .d-flex
+                  i.fas.fa-check-circle(style="color:#340B81;place-self:center;")
+                  span.ps-2 Asegura la confianza, transparencia, objetividad y aprendizaje.
+
+      .cont_decorativo.mb-4.mt-4(data-aos="fade-right")
+        .row
+          .col-auto.pe-0.ps-lg-4(style="place-self:start;")
+            figure
+              img(src="@/assets/curso/tema1/23.svg")
+          .col.ps-2(style="place-self:center;")
+            h3.mb-0.pe-4.pt-lg-3 #[em Tips] sobre política empresarial
+    
+      p(data-aos="fade-up") Algunos consejos sobre la política empresarial son:
+
+      .col-xl-11.m-auto.mt-4
+        .row
+          .col-lg-9.mb-4.mb-lg-0(data-aos="fade-right")
+            SlyderF(columnas="col-lg-6 p-4")
+              .tarjeta.cont_1_3.p-4
+                .pb-4.ps-3.pe-3
+                  figure.text-center
+                    img(src="@/assets/curso/tema1/49.svg" style="max-width:100px;display:inline;")
+                  .text-center.mt-3
+                    p Las políticas deben generar confianza como primer producto.
+              .tarjeta.cont_1_3.p-4
+                .pb-4.ps-3.pe-3
+                  figure.text-center
+                    img(src="@/assets/curso/tema1/50.svg" style="max-width:100px;display:inline;")
+                  .text-center.mt-3
+                    p Una buena política empresarial se enfoca en pocos objetivos grandes y sigue un solo camino, el correcto, hasta alcanzarlos.
+              .tarjeta.cont_1_3.p-4
+                .pb-4.ps-3.pe-3
+                  figure.text-center
+                    img(src="@/assets/curso/tema1/51.svg" style="max-width:100px;display:inline;")
+                  .text-center.mt-3
+                    p Las políticas deben ser revisadas y actualizadas periódicamente.
+              .tarjeta.cont_1_3.p-4
+                .pb-4.ps-3.pe-3
+                  figure.text-center
+                    img(src="@/assets/curso/tema1/52.svg" style="max-width:100px;display:inline;")
+                  .text-center.mt-3
+                    p Las políticas son indispensables para una adecuada delegación de autoridad.
+              .tarjeta.cont_1_3.p-4
+                .pb-4.ps-3.pe-3
+                  figure.text-center
+                    img(src="@/assets/curso/tema1/53.svg" style="max-width:100px;display:inline;")
+                  .text-center.mt-3
+                    p Las políticas deben coincidir con el estilo general de la empresa.
+              .tarjeta.cont_1_3.p-4
+                .pb-4.ps-3.pe-3
+                  figure.text-center
+                    img(src="@/assets/curso/tema1/54.svg" style="max-width:100px;display:inline;")
+                  .text-center.mt-3
+                    p Las políticas deben ser comprendidas por todos los miembros de la empresa.
+              .tarjeta.cont_1_3.p-4
+                .pb-4.ps-3.pe-3
+                  figure.text-center
+                    img(src="@/assets/curso/tema1/55.svg" style="max-width:100px;display:inline;")
+                  .text-center.mt-3
+                    p Las políticas formuladas y “guardadas” no pueden cumplir su misión.
+              .tarjeta.cont_1_3.p-4
+                .pb-4.ps-3.pe-3
+                  figure.text-center
+                    img(src="@/assets/curso/tema1/56.svg" style="max-width:100px;display:inline;")
+                  .text-center.mt-3
+                    p Las políticas empresariales no tienen el mismo impacto si los miembros de la empresa las desconocen.
+              .tarjeta.cont_1_3.p-4
+                .pb-4.ps-3.pe-3
+                  figure.text-center
+                    img(src="@/assets/curso/tema1/57.svg" style="max-width:100px;display:inline;")
+                  .text-center.mt-3
+                    p Las políticas se aplican en todo nivel empresarial. 
+          .col-lg-3(data-aos="fade-down" style="place-self:center;")
+            figure.m-auto.col-8.col-md-5.col-lg-12
+              img(src="@/assets/curso/tema1/48.svg")
+
+        
+
+
 
 
                 
