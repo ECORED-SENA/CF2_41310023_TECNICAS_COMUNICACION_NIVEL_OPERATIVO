@@ -22,7 +22,7 @@
           figure.col-7.col-md-6.col-lg-12  
             img(src="@/assets/curso/tema1/2.svg")
       .col-lg-8(data-aos="fade-left")
-        p A continuación, se explican que son las políticas empresariales: 
+        p A continuación, se explican qué son las políticas empresariales: 
         .p-4(style="background-color:#2A0967;border-radius:10px;")
           .row
             .col-lg-auto.md-4.mb-lg-0 

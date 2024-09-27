@@ -28,7 +28,7 @@
         .row
           .col-lg-7.pe-lg-0.mb-4.mb-lg-0
             .h-100.p-4.d-flex.align-content-center.flex-wrap(style="background-color:#FEDED7;")
-              p.mb-0 La comunicación con el público en general es tan vital para la organización como la comunicación interna. Entre ambas debe existir una alta integración. Aunque la comunicación externa suele estar vinculada a departamentos como relaciones públicas, prensa, marketing, investigación de mercados, y comunicación corporativa, todos los miembros de la organización pueden desempeñar funciones de comunicación externa y contribuir a la difusión de la imagen de la organización. 
+              p.mb-0 La comunicación con el público en general es tan vital para la organización como la comunicación interna. Entre ambas debe existir una alta integración. Aunque la comunicación externa suele estar vinculada a departamentos como relaciones públicas, prensa, #[em marketing], investigación de mercados, y comunicación corporativa, todos los miembros de la organización pueden desempeñar funciones de comunicación externa y contribuir a la difusión de la imagen de la organización. 
           .col-lg-5.ps-lg-0(style="place-self:center;")
             figure.m-auto.col-9.col-md-7.col-lg-12
               img(src="@/assets/curso/tema3/4.png")
@@ -114,7 +114,7 @@
         .row.col-xl-11.m-auto
           .col-lg-7.mb-4.mb-lg-0(style="place-self:center;")
             h4 Comunicación externa de notoriedad 
-            p Se encarga de dar a conocer la empresa, mejorar su imagen y promover sus productos a través de promoción, marketing, publicidad, patrocinios y otras actividades que aumenten su visibilidad. 
+            p Se encarga de dar a conocer la empresa, mejorar su imagen y promover sus productos a través de promoción, #[em marketing], publicidad, patrocinios y otras actividades que aumenten su visibilidad. 
           .col-lg-5
             figure.m-auto.col-10.col-md-8.col-lg-12
               img(src='@/assets/curso/tema3/19.png')
@@ -139,7 +139,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/tema3/21.png')})`}"
       )
       .bloque-texto-g__texto.p-4.p-xl-5
-        p.mb-0 Para que una comunicación externa sea efectiva, es necesario que cuente con herramientas que la respalden. Cabe aclarar que el departamento o área encargada de generar las estrategias de comunicación externa es, por lo general, marketing, publicidad, relaciones públicas, protocolo y ventas. 
+        p.mb-0 Para que una comunicación externa sea efectiva, es necesario que cuente con herramientas que la respalden. Cabe aclarar que el departamento o área encargada de generar las estrategias de comunicación externa es, por lo general, #[em marketing], publicidad, relaciones públicas, protocolo y ventas. 
     
     p.mt-4(data-aos="fade-right") A continuación, se mencionarán algunas de las herramientas: 
 

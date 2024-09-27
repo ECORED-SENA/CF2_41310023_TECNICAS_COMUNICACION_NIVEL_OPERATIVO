@@ -134,46 +134,46 @@
             ul.lista-ul.mt-3
               li.d-flex.mb-3
                 i.fas.fa-check-circle(style="color:#340B81;")
-                span #[strong Ventajas:] Efectivo en entornos donde las decisiones deben tomarse rápidamente o con empleados que requieren una supervisión estricta. 
+                span #[strong Ventajas:] efectivo en entornos donde las decisiones deben tomarse rápidamente o con empleados que requieren una supervisión estricta. 
               li.d-flex
                 i.fas.fa-check-circle(style="color:#340B81;")
-                span #[strong Desventajas:] No toma en cuenta la opinión de los trabajadores, lo que puede hacer que se sientan infravalorados y muestren poco compromiso hacia la compañía.
+                span #[strong Desventajas:] no toma en cuenta la opinión de los trabajadores, lo que puede hacer que se sientan infravalorados y muestren poco compromiso hacia la compañía.
           .row.col-xl-11.m-auto(titulo="Liderazgo <em>laissez-faire</em>")
             p También conocido como liderazgo delegativo, es un estilo de no intervención y falta de #[em feedback] regular. El líder interviene solo cuando es necesario y con el menor control posible. 
             ul.lista-ul.mt-3
               li.d-flex.mb-3
                 i.fas.fa-check-circle(style="color:#340B81;")
-                span #[strong Ventajas:] La autonomía puede ser liberadora para algunos empleados, mejorando la creatividad y la satisfacción laboral. 
+                span #[strong Ventajas:] la autonomía puede ser liberadora para algunos empleados, mejorando la creatividad y la satisfacción laboral. 
               li.d-flex
                 i.fas.fa-check-circle(style="color:#340B81;")
-                span #[strong Desventajas:] No es apropiado para empleados que no poseen las competencias necesarias, lo que puede llevar al incumplimiento de proyectos o fechas de entrega. 
+                span #[strong Desventajas:] no es apropiado para empleados que no poseen las competencias necesarias, lo que puede llevar al incumplimiento de proyectos o fechas de entrega. 
           .row.col-xl-11.m-auto(titulo="Liderazgo democrático ")
             p El líder promueve el diálogo entre sus seguidores para considerar las opiniones del grupo, aunque la decisión final la toma el superior. 
             ul.lista-ul.mt-3
               li.d-flex.mb-3
                 i.fas.fa-check-circle(style="color:#340B81;")
-                span #[strong Ventajas:] Fomenta la participación y el compromiso de los empleados, mejorando su afiliación y productividad. 
+                span #[strong Ventajas:] fomenta la participación y el compromiso de los empleados, mejorando su afiliación y productividad. 
               li.d-flex
                 i.fas.fa-check-circle(style="color:#340B81;")
-                span #[strong Desventajas:] Los desacuerdos pueden ralentizar la toma de decisiones, lo que requiere del líder una gran habilidad para mantener la motivación y colaboración. 
+                span #[strong Desventajas:] los desacuerdos pueden ralentizar la toma de decisiones, lo que requiere del líder una gran habilidad para mantener la motivación y colaboración. 
           .row.col-xl-11.m-auto(titulo="Liderazgo transaccional ")
             p Se basa en intercambios entre líderes y seguidores, donde los seguidores reciben recompensas por su desempeño y el líder se beneficia del cumplimiento de las tareas. 
             ul.lista-ul.mt-3
               li.d-flex.mb-3
                 i.fas.fa-check-circle(style="color:#340B81;")
-                span #[strong Ventajas:] Es orientado a los objetivos y motiva a los seguidores con recompensas claras. 
+                span #[strong Ventajas:] es orientado a los objetivos y motiva a los seguidores con recompensas claras. 
               li.d-flex
                 i.fas.fa-check-circle(style="color:#340B81;")
-                span #[strong Desventajas:] Se centra en el presente y se enfoca en la eficiencia operativa, sin fomentar el desarrollo a largo plazo. 
+                span #[strong Desventajas:] se centra en el presente y se enfoca en la eficiencia operativa, sin fomentar el desarrollo a largo plazo. 
           .row.col-xl-11.m-auto(titulo="Liderazgo transformacional ")
             p Los líderes transformacionales utilizan altos niveles de comunicación para lograr los objetivos y transmitir una visión de cambio. 
             ul.lista-ul.mt-3
               li.d-flex.mb-3
                 i.fas.fa-check-circle(style="color:#340B81;")
-                span #[strong Ventajas:] Motiva y aumenta la productividad, liderando el cambio dentro de la organización y ganándose la confianza y respeto del equipo. 
+                span #[strong Ventajas:] motiva y aumenta la productividad, liderando el cambio dentro de la organización y ganándose la confianza y respeto del equipo. 
               li.d-flex
                 i.fas.fa-check-circle(style="color:#340B81;")
-                span #[strong Desventajas:] Se concentra en cualidades intangibles como la visión y los valores, lo que puede ser menos tangible en términos de control y supervisión. 
+                span #[strong Desventajas:] se concentra en cualidades intangibles como la visión y los valores, lo que puede ser menos tangible en términos de control y supervisión. 
     
     .cont_decorativo.mb-4.mt-5(data-aos="fade-right")
       .row

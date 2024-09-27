@@ -122,7 +122,11 @@ export default {
           imagen: require('@/assets/actividad/pregunta_4.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Liderazgo laissez-faire. ', esCorrecta: true },
+            {
+              id: 'a',
+              texto: 'Liderazgo <em>laissez-faire</em>. ',
+              esCorrecta: true,
+            },
             { id: 'b', texto: 'Liderazgo democrático. ', esCorrecta: false },
             { id: 'c', texto: 'Liderazgo autocrático. ', esCorrecta: false },
             {
@@ -152,7 +156,7 @@ export default {
             },
             {
               id: 'c',
-              texto: 'La falta de feedback regular. ',
+              texto: 'La falta de <em>feedback</em> regular. ',
               esCorrecta: false,
             },
             {
