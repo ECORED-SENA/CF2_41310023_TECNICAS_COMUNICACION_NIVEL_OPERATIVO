@@ -32,7 +32,7 @@
 
       figure.mt-4(data-aos="zoom-in-up")
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/TJV3MjTNzHE?si=J2Z2s8NL-HPnX7HM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       
       .col-xl-10.m-auto.mt-4
         .p-4.p-md-3(style="background-color:#340B81;border-radius:55px;" data-aos="zoom-in")

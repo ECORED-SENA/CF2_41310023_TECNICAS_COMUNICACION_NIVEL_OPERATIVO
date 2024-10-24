@@ -32,7 +32,7 @@
               h4(style="color:#F7B71B;") Pódcast
               TarjetaAudio.color-primario.mb-3(
                 texto="Las políticas empresariales"
-                :audio="require('@/assets/componentes/audios/audio-ej.mp3')"
+                :audio="require('@/assets/componentes/audios/politicas.mp3')"
                 @audio-hover="mostrarIndicadorTarjetaAudio = false"
                 tiempo
               )
