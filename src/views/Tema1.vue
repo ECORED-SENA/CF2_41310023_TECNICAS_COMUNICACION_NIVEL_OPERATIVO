@@ -286,7 +286,7 @@
           figure
             img(src="@/assets/curso/tema1/34.svg")
         .col-md(style="place-self:center;")
-          p.mb-0 En todos los casos el área de Dirección de la empresa debe, además de suministrar los recursos necesarios, nombrar al responsable del cumplimiento de esa política. Para que las políticas sean factibles, viables y, sobre todo, de calidad, se deben seguir una serie de pasos, y la adecuada aplicación de los requisitos correspondientes.
+          p.mb-0 En todos los casos el área de dirección de la empresa debe, además de suministrar los recursos necesarios, nombrar al responsable del cumplimiento de esa política. Para que las políticas sean factibles, viables y, sobre todo, de calidad, se deben seguir una serie de pasos, y la adecuada aplicación de los requisitos correspondientes.
       
       p.mt-4(data-aos="fade-up") Para que las políticas tengan los resultados deseados deben cumplir con los siguientes requisitos:
 
@@ -415,7 +415,7 @@
             figure
               img(src="@/assets/curso/tema1/23.svg")
           .col.ps-2(style="place-self:center;")
-            h3.mb-0.pe-4.pt-lg-3 #[em Tips] sobre política empresarial
+            h3.mb-0.pe-4.pt-lg-3 Tips sobre política empresarial
     
       p(data-aos="fade-up") Algunos consejos sobre la política empresarial son:
 
